@@ -33,6 +33,8 @@ echo "2*3+5" | ./parser
 ./parser "++(3+4) * 5--"
 ```
 
+#### Additionally, I made the `run.sh` script which you can also use to run. 
+
 ## Grammar Implemented
 
 ```
